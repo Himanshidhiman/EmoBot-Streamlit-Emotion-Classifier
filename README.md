@@ -11,8 +11,7 @@ rule-based text classification logic.
 
 ### Neutral / happy conversation
 ![Happy conversation]
-
-
+![image alt]([image_url](https://github.com/Himanshidhiman/EmoBot-Streamlit-Emotion-Classifier/blob/d545dc0dd836a604e718897c0fa1961ce165f62c/Screenshot%202026-09-09%20102457.png))
 
 ### Crisis-keyword detection
 ![Crisis detection](screenshots/crisis-detection.png)
