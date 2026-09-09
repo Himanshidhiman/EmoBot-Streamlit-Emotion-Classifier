@@ -14,7 +14,7 @@ rule-based text classification logic.
 ![image alt](https://github.com/Himanshidhiman/EmoBot-Streamlit-Emotion-Classifier/blob/d545dc0dd836a604e718897c0fa1961ce165f62c/Screenshot%202026-09-09%20102457.png)
 
 ### Crisis-keyword detection
-![image alt](image_url)
+![image alt](https://github.com/Himanshidhiman/EmoBot-Streamlit-Emotion-Classifier/blob/232096601008b2e7adfee433b666906ea54f5502/Screenshot%202026-09-09%20102651.png)
 
 
 ### Initial chat screen
