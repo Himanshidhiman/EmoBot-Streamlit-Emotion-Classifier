@@ -18,7 +18,7 @@ rule-based text classification logic.
 
 
 ### Initial chat screen
-[![image alt](https://github.com/Himanshidhiman/EmoBot-Streamlit-Emotion-Classifier/blob/69d047819dd46eb53999763dd9ed4a0d803c792f/Screenshot%202026-09-09%20102410.png)
+![image alt](https://github.com/Himanshidhiman/EmoBot-Streamlit-Emotion-Classifier/blob/69d047819dd46eb53999763dd9ed4a0d803c792f/Screenshot%202026-09-09%20102410.png)
 
 
 ## How It Works
